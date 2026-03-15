@@ -31,8 +31,8 @@ The renderer generates an animated celestial scene with reflective objects and o
 ```
 
 .
-├── Animate/ Animation control logic
-├── Assets/ Textures and scene assets
+├── Animate/
+├── Assets/
 ├── GeometryNode.cpp / .hpp
 ├── SceneNode.cpp / .hpp
 ├── Primitive.cpp / .hpp
